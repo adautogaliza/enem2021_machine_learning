@@ -9,6 +9,9 @@ Optamos por realizar este projeto apenas com os dados de vestibulandos dos Estad
 Neste repositório disponibilizamos:
 
 1 - Dataset original extraídos do site oficial do INEP;
+
 2 - Dicionário contendo informações sobre os dados;
+
 3- Um notebook python com os tratamentos iniciais no nosso dataset de interesse;
+
 4 - Um segundo notebook contendo a análise exploratória e modelagem das aplicações de machine learning descritas acima.
